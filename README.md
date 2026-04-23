@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Jan 👋</h1>
 
-<!--
-**janfess/janfess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Senior Full-Stack Engineer | Bootstrapper of Triathlon Pace</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I specialize in architecting high-performance, enterprise-grade web applications using <b>Angular 21</b> and <b>Node.js</b>. With a strong focus on Server-Side Rendering (SSR), SEO optimization, and scalable systems, I help teams and businesses build software that is fast, resilient, and maintainable.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 What I Do
+- 🏗️ **Architect & Build:** I design State-of-the-Art (SOTA) Angular architectures. Check out my [Angular 21 Reference Architecture](https://github.com/janfess/angular-reference-architecture) for a masterclass in modern frontend structure.
+- 🚀 **Performance Optimization:** I specialize in Core Web Vitals, intelligent asset preloading, and custom SSR/SSG request flows.
+- 🛠️ **Solo Bootstrapper:** As the creator of Triathlon Pace, I handle everything from database design and robust Node.js APIs to highly interactive Angular UIs.
+- 🤝 **Freelance & Consulting:** I am currently available for freelance contracts. If you need a Senior Angular Engineer to rescue a legacy codebase, boost performance, or build an application right the first time, let's talk.
+
+### 🛠️ Technology Stack
+- **Frontend:** Angular (v17 - 21), PrimeNG, PrimeFlex, RxJS, Signals
+- **Backend:** Node.js, Express, TypeScript
+- **DevOps:** GitHub Actions, Docker, Cloudflare, Server-Side Rendering (SSR)
+
+---
+<p align="center">
+  📫 <b>Reach me at:</b> <a href="mailto:jan@janesser.net">jan@janesser.net</a>
+</p>

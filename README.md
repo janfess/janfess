@@ -19,6 +19,11 @@
 - **Backend:** Node.js, Express, TypeScript
 - **DevOps:** GitHub Actions, Docker, Cloudflare, Server-Side Rendering (SSR)
 
+### 🔗 Quick Links
+- 🌐 [Personal Website](https://janesser.net) - Architecture, Consulting & Freelance
+- 🏊 [Triathlon Pace](https://triathlonpace.com) - Solo Bootstrapped SaaS for Athletes
+- 🏗️ [Reference Architecture](https://github.com/janfess/angular-reference-architecture) - Clean Code Showcase
+
 > [!NOTE]
 > **🌍 Remote Availability:** Based in **CET (GMT+1)**. Experienced in async collaboration and overlapping with European business hours and US East Coast mornings.
 

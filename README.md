@@ -19,6 +19,9 @@
 - **Backend:** Node.js, Express, TypeScript
 - **DevOps:** GitHub Actions, Docker, Cloudflare, Server-Side Rendering (SSR)
 
+> [!NOTE]
+> **🌍 Remote Availability:** Based in **CET (GMT+1)**. Experienced in async collaboration and overlapping with European business hours and US East Coast mornings.
+
 ---
 <p align="center">
   📫 <b>Reach me at:</b> <a href="mailto:jan@janesser.net">jan@janesser.net</a>

@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Jan 👋</h1>
 
-<h3 align="center">Senior Angular Architect & Solo Technical Solver | Bootstrapper of Triathlon Pace</h3>
+<h3 align="center">Angular Architect & Solo Technical Solver | Bootstrapper of Triathlon Pace</h3>
 
 <p align="center">
   I architect and ship high-performance, enterprise-grade applications with <b>Angular 21</b> and <b>Node.js</b>. My focus is on <b>Technical Excellence</b> and <b>ROI-driven efficiency</b>—delivering scalable, maintainable software without the overhead of excessive meetings or coordination.

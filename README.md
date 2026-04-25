@@ -16,14 +16,14 @@
 
 ### 🛠️ The Solo Bootstrapper Edge
 As the sole creator of **Triathlon Pace**, I have experience handling the entire lifecycle of a production SaaS:
-- **Architecture:** Robust, scalable Node.js APIs & PostgreSQL design.
+- **Architecture:** Robust, scalable Node.js APIs & MongoDB design.
 - **Frontend:** Highly interactive Angular UIs with a focus on UX and Performance.
 - **Ops:** CI/CD pipelines, Docker, and Cloudflare deployments.
 
 ### 🛠️ Technology Stack
 - **Frontend:** Angular 21 (Signals, RxJS, SSR), PrimeNG, PrimeFlex
-- **Backend:** Node.js, Express, TypeScript, NestJS
-- **Infrastructure:** Docker, K8s, AWS, GitHub Actions
+- **Backend:** Node.js, Express, TypeScript
+- **Infrastructure:** Docker, AWS, Google Cloud,  GitHub Actions
 
 ### 🔗 Connections
 - 🌐 [Personal Website](https://janesser.net) - Architecture, Consulting & Freelance

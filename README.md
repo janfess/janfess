@@ -1,39 +1,49 @@
-<h1 align="center">Hi there, I'm Jan 👋</h1>
+<h1 align="center">Hi, I'm Jan</h1>
 
-<h3 align="center">Angular Web Engineer & Solo Technical Solver | Bootstrapper of Triathlon Pace</h3>
+<h3 align="center">Angular & Node.js Web Engineer | Founder of Triathlon Pace</h3>
 
 <p align="center">
-  I architect and ship high-performance, enterprise-grade applications with <b>Angular 21</b> and <b>Node.js</b>. My focus is on <b>Technical Excellence</b> and <b>ROI-driven efficiency</b>—delivering scalable, maintainable software without the overhead of excessive meetings or coordination.
+  I build production-ready SaaS applications with <b>Angular</b>, <b>Node.js</b>, <b>Stripe</b>, and <b>Cloudflare</b>.
+  As the solo founder of <b>Triathlon Pace</b>, I work across the full product lifecycle:
+  architecture, frontend, backend, infrastructure, SEO, and deployment.
 </p>
 
 ---
 
-### 🚀 What I Do
-- 🏗️ **Independent Feature Delivery:** I handle complex technical requirements and full-stack features from architecture to deployment—autonomously and reliably.
-- 🏗️ **Architecture & Rescue:** SOTA Angular architectures (Signals, RxJS, SSR). Check out my [Angular 21 Reference Architecture](https://github.com/janfess/angular-reference-architecture) for a masterclass in modern frontend structure.
-- ⚡ **Performance & SEO:** Specialist in Core Web Vitals, intelligent preloading, and high-performance SSR/SSG request flows.
-- 🎓 **Solo-Ship Mentoring:** Helping developers learn how to plan, build, and ship complex systems on their own.
+### What I Do
 
-### 🛠️ The Solo Bootstrapper Edge
-As the sole creator of **Triathlon Pace**, I have experience handling the entire lifecycle of a production SaaS:
-- **Architecture:** Robust, scalable Node.js APIs & MongoDB design.
-- **Frontend:** Highly interactive Angular UIs with a focus on UX and Performance.
-- **Ops:** CI/CD pipelines, Docker, and Cloudflare deployments.
+- **Independent Feature Delivery:** I take full-stack features from architecture to production with minimal hand-holding.
+- **Angular Architecture:** Modern Angular applications using Signals, RxJS, SSR, clean state management, and scalable project structure.
+- **Performance & SEO:** Core Web Vitals, SSR/SSG, technical SEO, caching, and fast user-facing pages.
+- **SaaS Product Engineering:** Auth, payments, dashboards, APIs, deployment, monitoring, and practical founder-focused tradeoffs.
 
-### 🛠️ Technology Stack
-- **Frontend:** Angular 21 (Signals, RxJS, SSR), PrimeNG, PrimeFlex
-- **Backend:** Node.js, Express, TypeScript
-- **Infrastructure:** Docker, AWS, Google Cloud,  GitHub Actions
+### The Founder-Engineer Edge
 
-### 🔗 Connections
-- 🌐 [Personal Website](https://janesser.net) - Architecture, Consulting & Freelance
-- 🏊 [Triathlon Pace](https://triathlonpace.com) - Solo Bootstrapped SaaS for Athletes
-- 🏗️ [Reference Architecture](https://github.com/janfess/angular-reference-architecture) - Clean Code Showcase
+As the solo creator of **Triathlon Pace**, I have hands-on experience building and running a real SaaS product:
 
-> [!IMPORTANT]
-> **⚡ Zero-Meeting Overhead:** I prioritize deep work and technical output. I am experienced in async collaboration and delivering high-quality code independently within European (CET) and US East Coast business hours.
+- **Frontend:** Interactive Angular UIs with strong UX and performance focus.
+- **Backend:** Node.js APIs, MongoDB data models, authentication, and integrations.
+- **Payments & Growth:** Stripe, SEO, analytics, pricing, and conversion flows.
+- **Infrastructure:** Docker, CI/CD, Cloudflare, Google Cloud, and production operations.
+
+### Technology Stack
+
+- **Frontend:** Angular, Signals, RxJS, SSR, PrimeNG
+- **Backend:** Node.js, Express, TypeScript, MongoDB
+- **Infrastructure:** Docker, Cloudflare, Google Cloud, GitHub Actions
+- **Product:** Stripe, SEO, analytics, performance optimization
+
+### Links
+
+- [Personal Website](https://janesser.net) - SaaS development, architecture, and consulting
+- [Triathlon Pace](https://triathlonpace.com) - Solo-built SaaS for triathletes
+- [Angular Reference Architecture](https://github.com/janfess/angular-reference-architecture) - Modern Angular project structure
+
+> [!NOTE]
+> I work best in async, focused environments where ownership, clear communication, and technical output matter more than meeting-heavy processes.
 
 ---
+
 <p align="center">
-  📫 <b>Reach me at:</b> <a href="mailto:jan@janesser.net">jan@janesser.net</a>
+  <b>Contact:</b> <a href="mailto:jan@janesser.net">jan@janesser.net</a>
 </p>

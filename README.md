@@ -52,5 +52,5 @@ I work best in focused, async environments where clear communication, technical 
 ---
 
 <p align="center">
-  <b>Contact:</b> <a href="mailto:jan@janesser.net">jan@janesser.net</a>
+  <b>Contact:</b> <a href="mailto:jan@janesser.net">mail@janesser.net</a>
 </p>

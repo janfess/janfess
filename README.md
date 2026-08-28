@@ -34,7 +34,7 @@ Working on a real product has given me hands-on experience across the entire eng
 * **Frontend:** Angular, TypeScript, Signals, RxJS, SSR, PrimeNG
 * **Backend:** Node.js, Express, TypeScript
 * **Data:** MongoDB, SQLite
-* **Infrastructure:** Docker, Cloudflare, Google Cloud, GitHub Actions
+* **Infrastructure:** Linux (Ubuntu), Docker, Cloudflare, Google Cloud, GitHub Actions
 * **Product:** Stripe, SEO, analytics, performance optimization
 
 ### Featured Projects

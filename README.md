@@ -26,7 +26,7 @@ Working on a real product has given me hands-on experience across the entire eng
 * **Frontend:** Interactive Angular applications with a strong focus on UX, performance, and maintainable architecture.
 * **Backend:** Node.js APIs, MongoDB data models, authentication, integrations, and business logic.
 * **Payments & Product:** Stripe, pricing, subscriptions, analytics, SEO, and conversion flows.
-* **Infrastructure:** Docker, CI/CD, Cloudflare, Google Cloud, AWS, monitoring, and production deployments.
+* **Infrastructure:** Docker, CI/CD, Cloudflare, Google Cloud, AWS, Terraform, monitoring, and production deployments.
 * **Product Development:** Feature planning, technical tradeoffs, debugging, optimization, and continuous iteration based on real users.
 
 ### Technology Stack
@@ -34,7 +34,7 @@ Working on a real product has given me hands-on experience across the entire eng
 * **Frontend:** Angular, TypeScript, Signals, RxJS, SSR, PrimeNG
 * **Backend:** Node.js, Express, TypeScript
 * **Data:** MongoDB, SQLite, PostgreSQL
-* **Infrastructure:** Linux, Docker, Cloudflare, Google Cloud, AWS, GitHub Actions
+* **Infrastructure:** Linux, Docker, Cloudflare, Google Cloud, AWS, Terraform, GitHub Actions
 * **Product:** Stripe, SEO, analytics, performance optimization
 
 ### Featured Projects

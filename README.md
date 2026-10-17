@@ -42,15 +42,15 @@ Working on a real product has given me hands-on experience across the entire eng
 
 * **[Triathlon Pace](https://triathlonpace.com)** — Solo-built SaaS for triathletes and endurance athletes
 * **[spring-boot-blueprint](https://github.com/janfess/spring-boot-blueprint)** — Java 21 / Spring Boot reference service: REST and contract-first SOAP over one domain, tested on PostgreSQL and Oracle
-* **[angular-blueprint](https://github.com/janfess/angular-blueprint)** — Modern Angular project structure and architectural reference
-* **[node-rest-blueprint](https://github.com/janfess/node-rest-blueprint)** — Node.js/TypeScript REST API architecture
-* **[Personal Website](https://janesser.net)** — SaaS development, architecture, and consulting
+* **[angular-blueprint](https://github.com/janfess/angular-blueprint)** — Angular 21 reference app: prerendered (SSG) pages in German and English, feature-based structure, tests in CI
+* **[node-rest-blueprint](https://github.com/janfess/node-rest-blueprint)** — Node.js/TypeScript REST API: route → controller → service, request validation, Jest tests in CI
+* **[Personal Website](https://janesser.net)** — Profile, blog and contact
 
 ### How I Work
 
-I enjoy taking ownership of problems and carrying features from an initial idea through implementation and production.
+I enjoy taking ownership of problems and carrying features from an initial idea through implementation and production. Every change ships with tests, and CI decides whether it goes live.
 
-I work best in focused, async environments where clear communication, technical ownership, and measurable results matter more than unnecessary process.
+Open to freelance projects, remote or on-site in the DACH region.
 
 ---
 
